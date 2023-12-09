@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Nhà giả kim",
+      "category": "electronics",
+      "image": "https://isachhay.net/wp-content/uploads/2018/04/nha-gia-kim-sach-van-hoc-hay-nen-doc-03.jpg",
+      "price": "1",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Đắc Nhân Tâm",
+      "category": "electronics",
+      "image": "https://i.ytimg.com/vi/XdlndO7qnXc/maxresdefault.jpg",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "Cha Giàu Cha Nghèo",
+      "category": "electronics",
+      "image": "https://f.audioaz.com/file/audioaz/covers/day-con-lam-giau-tap-02-su-dung-dong-von.jpg",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Đường chọn anh nhàn khi còn trẻ",
+      "category": "clothing",
+      "image": "https://eccthai.com/wp-content/uploads/2021/07/dung-lua-chon-an-nhan-khi-con-tre.jpg",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Người trong muôn nghề",
+      "category": "clothing",
+      "image": "https://cdn1.123job.vn/123job/uploads/2021/04/24/2021_04_24______beb11ce84c63b6bc4888ae5e21616e8f.jpg",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Kinh Tế Học",
+      "category": "clothing",
+      "image": "https://www.nxbtre.com.vn/Images/Book/NXBTreStoryThumb_06282014_092848.jpg",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "Tứ Thư Lãnh Đạo",
+      "category": "toys",
+      "image": "https://live.staticflickr.com/2880/10083959924_c50605b8d7.jpg",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Nghệ Thuật trong giao tiếp",
+      "category": "toys",
+      "image": "https://ohay.vn/blog/wp-content/uploads/2020/04/nghe-thuat-giai-quyet-van-de-trong-giao-tiep-min.jpg",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Nghệ Thuật trong giao tiếp",
+      "category": "toys",
+      "image": "https://ohay.vn/blog/wp-content/uploads/2020/04/nghe-thuat-giai-quyet-van-de-trong-giao-tiep-min.jpg",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    }
+  ]
+}
